@@ -112,7 +112,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-taskup/env/
 # Spyder project settings
 .spyderproject
 .spyproject
